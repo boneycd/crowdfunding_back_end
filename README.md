@@ -8,7 +8,7 @@
 CrowdFunding Web App that allow user to Create or Delete funding projects. 
 
 ### Intended Audience/User Stories
- Provide a platform for people to fund projects that raises funds for education.
+ Provide a crowdfunding platform for people to fund projects that raises funds for education.
 
  [X] A link to the deployed project.
  https://github.com/boneycd/crowdfunding_back_end
