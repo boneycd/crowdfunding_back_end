@@ -81,9 +81,11 @@ Now click in the middle/left pane and define some JSON data to send through with
 "email":name@mail.com
 }
 
+Now  add the previously generated token to the "Auth" tab. Specifically, Click the dropdown in the Auth tab, and select Bearer Then we need to paste our token into the TOKEN field. In the PREFIX field, we put the string Token
 Now press Send again! The API responds with the ID (primary key) of our new user account, plus confirmation of our username and email address.
 
-Create Project:
+Creating Project:
+
 We want to create an HTTP Request, click the GET dropdown and select POST instead:
 
 Paste the link http://localhost:8000/projects/ into the URL bar of your new request.
@@ -101,6 +103,7 @@ Now click in the middle/left pane and define some JSON data to send through with
     "date_created": "2020-03-20T14:28:23.382748Z"
 }
 
+Now  add the previously generated token to the "Auth" tab. Specifically, Click the dropdown in the Auth tab, and select Bearer Then we need to paste our token into the TOKEN field. In the PREFIX field, we put the string Token
 Now press Send again! The API responds with the ID (primary key) of our new user account, plus confirmation of our username and email address.
 
 
