@@ -19,7 +19,7 @@ CrowdFunding Web App that allow user to Create or Delete funding projects.
 
 
  [x] A screenshot of Insomnia, demonstrating a successful GET method for anyendpoint.
- ![Alt A screenshot of Insomnia, demonstrating a successful GET method]( screenshots\successfulGETMethod.png )
+ ![Alt A screenshot of Insomnia, demonstrating a successful GET method]( screenshots/successfulGETMethod.png )
 
  [x] A screenshot of Insomnia, demonstrating a successful POST method for anyendpoint.
  ![Alt A screenshot of Insomnia, demonstrating a successful POST method]( screenshots\SuccessfulPOSTMethod.png )
