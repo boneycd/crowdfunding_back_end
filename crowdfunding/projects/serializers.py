@@ -27,7 +27,7 @@ class ProjectDetailSerializer(ProjectSerializer):
         instance.save()
         return instance
 
-class ProjectDetailSerializer(ProjectSerializer):
+class PledgeDetailSerializer(PledgeSerializer):
     pledges = PledgeSerializer(many=True, read_only=True)
 
     def update(self, instance, validated_data):
