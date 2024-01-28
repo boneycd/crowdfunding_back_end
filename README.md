@@ -30,7 +30,7 @@ CrowdFunding Web App that allow user to Create or Delete funding projects.
  [x] Step by step instructions for how to register a new user and create a newproject (i.e. endpoints and body data).
 
  Using Insomnia:
- 
+
 Insomnia operates on a system of "Organizations", "Projects", and "Collections"
 Organisations are at the top level of the Insomnia's structure. You can select them in the leftmost vertical ribbon in the Insomnia interface: It’s possible that if this is your first-time installing insomnia, you will need to create an organisation to work in. (This depends on your installation.) Calling your org "personal projects" or something similar is fine.
 
