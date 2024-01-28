@@ -22,10 +22,10 @@ CrowdFunding Web App that allow user to Create or Delete funding projects.
  ![Alt A screenshot of Insomnia, demonstrating a successful GET method]( screenshots/successfulGETMethod.png )
 
  [x] A screenshot of Insomnia, demonstrating a successful POST method for anyendpoint.
- ![Alt A screenshot of Insomnia, demonstrating a successful POST method]( screenshots\SuccessfulPOSTMethod.png )
+ ![Alt A screenshot of Insomnia, demonstrating a successful POST method]( screenshots/SuccessfulPOSTMethod.png )
 
  [x] A screenshot of Insomnia, demonstrating a token being returned.
- ![Alt A screenshot of Insomnia, demonstrating a token being returned.]( screenshots\SuccessfulTOKEN .png )
+ ![Alt A screenshot of Insomnia, demonstrating a token being returned]( screenshots/SuccessfulTOKEN .png )
 
  [x] Step by step instructions for how to register a new user and create a newproject (i.e. endpoints and body data).
 
@@ -103,8 +103,11 @@ Now click in the middle/left pane and define some JSON data to send through with
 Now press Send again! The API responds with the ID (primary key) of our new user account, plus confirmation of our username and email address.
 
 
- [ ] Your refined API specification and Database Schema
+ [x] Your refined API specification
+ ![Alt A screenshot of API specification]( screenshots/API Specification.png )
+
+ [x] Database Schema
+ ![Alt A screenshot of Database Schema]( screenshots/DBSchema.png )
 
 
 
-An example API spec:### DB Schema![]( {{ ./relative/path/to/your/schema/image.png }} )
